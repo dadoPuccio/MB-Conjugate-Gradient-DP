@@ -50,11 +50,11 @@ ijcnn_overlap_exp = [
 ]
 
 
-long_run = 10
+long_run = 200
 batch_size = [128, 512] 
 
 batch_size_convex = [128, 512] 
-convex_run = 10
+convex_run = 50
 
 many_runs = [0, 1]
 overlap_batches = [False, True]
